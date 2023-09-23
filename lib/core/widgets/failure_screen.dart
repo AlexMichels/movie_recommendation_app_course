@@ -17,6 +17,7 @@ class FailureScreen extends StatelessWidget {
   }
 }
 
+
 class FailureBody extends StatelessWidget {
   const FailureBody({
     Key? key,
